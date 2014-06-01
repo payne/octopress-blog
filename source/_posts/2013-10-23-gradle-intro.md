@@ -5,8 +5,8 @@ comments: false
 ads: false
 description: ""
 category: 
-tags: []
+tags: [java build]
 ---
-{% include JB/setup %}
 
 I'm working on [slides for Gradle Introduction](http://payne.github.io/GradleIntro2013).
+

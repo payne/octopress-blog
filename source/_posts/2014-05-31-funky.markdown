@@ -1,0 +1,11 @@
+---
+layout: post
+title: Grant Green is awesome!
+date: 2014-05-31 13:53:08 -0500
+comments: true
+categories: Music Jazz Funky
+---
+
+
+
+<a href="http://www.youtube.com/watch?v=GLBTSrD42QY"><img src="images/GrantGreen.png"/></a>
